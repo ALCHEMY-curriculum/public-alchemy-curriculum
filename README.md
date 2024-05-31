@@ -11,12 +11,20 @@
 2. 「Create Fork」を押す
   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/165c6c6b-d14e-4898-9252-761ed22081e9)
 
-3. Fork した「public-alchemy-curriculum」の「<> Code ▼ 」を押し、cloneリンクをコピーする
+3. Fork した「public-alchemy-curriculum」の「<> Code ▼ 」を押す
   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/514c02a6-fa7f-429d-878f-c0ebc63edbec)
-  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/074788ed-8e9a-49ee-8e22-b6901e03fa76)
 
-4. ローカルのターミナルで`git clone コピーしたリンク`　を打ち込みcloneする。
+4. cloneリンクをコピーする
+ ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/074788ed-8e9a-49ee-8e22-b6901e03fa76)
+
+5. ローカルのターミナルで`git clone git@github.com:XXXXXXXX/public-alchemy-curriculum.git`　を打ち込み、「ENTER」を押す
+   ※ XXXXXXXX はGithubのユーザネームが入ります
+   ※ `git clone `の後に 4. でコピーしたものをペーストすると上記のコマンドになります
+
   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/fd91392a-1e3d-43ca-90de-708e552a2851)
+
+ローカルに「public-alchemy-curriculum」フォルダが作成されていれば、cloneが成功しています
+  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/821f7029-1d03-43ac-a3e6-3d6cb6128b1e)
 
 </details>
 
