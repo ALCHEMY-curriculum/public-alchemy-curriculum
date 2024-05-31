@@ -6,10 +6,13 @@
   <summary>ダウンロードについて（Fork）</summary>
 
 1. 「Fork」 を押す
-   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/55649762/902cb346-45b8-4d24-b21b-c57e7709a8ba)
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/c419f24e-707d-455a-89f8-384cde2f0650)
+
 2. 「Create Fork」を押す
+  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/165c6c6b-d14e-4898-9252-761ed22081e9)
 
 3. Fork した自分のリポジトリを clone する
+  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/514c02a6-fa7f-429d-878f-c0ebc63edbec)
 
 </details>
 
