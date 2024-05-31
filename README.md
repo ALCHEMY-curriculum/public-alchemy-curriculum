@@ -1,5 +1,18 @@
 # html-css-js-curriculum
 
+## 概要
+
+<details>
+  <summary>ダウンロードについて（Fork）</summary>
+
+1. 「Fork」 を押す
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/55649762/902cb346-45b8-4d24-b21b-c57e7709a8ba)
+2. 「Create Fork」を押す
+
+3. Fork した自分のリポジトリを clone する
+
+</details>
+
 ## 課題を実施する前に下記内容を確認する
 
 - [ディレクトリが作成されているか](https://www.notion.so/alchemy-inc/d39c7c0e8dce4ddfa049a1ea99e1e29f)
