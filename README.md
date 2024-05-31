@@ -18,7 +18,9 @@
  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/074788ed-8e9a-49ee-8e22-b6901e03fa76)
 
 5. ローカルのターミナルで`git clone git@github.com:XXXXXXXX/public-alchemy-curriculum.git`　を打ち込み、「ENTER」を押す
+
    ※ XXXXXXXX はGithubのユーザネームが入ります
+
    ※ `git clone `の後に 4. でコピーしたものをペーストすると上記のコマンドになります
 
   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/fd91392a-1e3d-43ca-90de-708e552a2851)
