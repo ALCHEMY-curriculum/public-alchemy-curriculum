@@ -33,6 +33,44 @@
 
 課題の進め方は[github flow](https://atmarkit.itmedia.co.jp/ait/articles/1708/01/news015.html)で進めてください。
 
+<details>
+  <summary>課題の進め方</summary>
+  こちらの総合課題を例にして説明します。
+  https://www.notion.so/alchemy-inc/586e3d4481e44b339ce2c2c83591f9d0
+
+1. 指定されたブランチ名(`html-general`)を確認し、ローカル環境でそのブランチを作成し、今のブランチからそのブランチに移動します。
+   `git switch -c html-general`とターミナルで打ち込むことでブランチを作成し、`html-general`ブランチに移動もできます.
+
+2. 指定されたファイル(`html_learning/general.html`)を修正します。
+
+3. 修正したファイルをステージングに追加します。
+   `git add html_learning/general.html` とターミナルに打ち込み`Enter`を押します。
+
+4. ステージングされたファイルをコミットします。
+   `git commit -v` とターミナルに打ち込み`Enter`を押します。
+   ※`-v`オプションをつけることで自分が修正した差分の確認もすることができます。
+
+5. コミットメッセージを打ち込みます。
+   コミットメッセージは以下のリンクを参考にしてください。
+   https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e
+
+今回の例では`feat:HTML総合課題の実装`としておきます。
+
+6. リモートリポジトリに変更をプッシュします。
+   `git push origin html-general`とターミナルに打ち込み`Enter`を押します。
+
+7. リモートリポジトリで PR(プルリクエスト)を作成します。
+
+- hoge ボタンを押します。
+- ブランチが`html-general`ブランチから`main`に向いていることを確認します
+- PR の内容を記述します。
+  ※コミットメッセージは実務を想定して他者から見てもらうことを想定して書くと勉強になります。
+  参考:https://dev.classmethod.jp/articles/pull-request-template/
+
+- hoge ボタンを押します。
+
+</details>
+
 - master ブランチから新規ブランチを切る
 - 新規ブランチで実装を進める
 - git で適宜コミット
