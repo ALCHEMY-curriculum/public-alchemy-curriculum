@@ -50,40 +50,51 @@ https://www.notion.so/alchemy-inc/586e3d4481e44b339ce2c2c83591f9d0
 1. 指定されたブランチ名(`html-general`)を確認し、ローカル環境でそのブランチを作成し、今のブランチからそのブランチに移動します。
 
 - `git branch`で現在のブランチを確認します。
-- `git switch -c html-general`とターミナルで打ち込みます。
-- `git branch`で再度現在のブランチを確認し、`html-general`ブランチに移動しているか確認します。
+  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/d1d1d10b-63e9-4443-a4de-2eaa19d312be)
+
+- `git switch -c html-general`とターミナルで打ち込み`Enter`を押します。
+- `git branch`ターミナルで打ち込み`Enter`を押し、`html-general`ブランチに移動しているか確認します。
+![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/8815d618-0ec9-4cea-a872-a11a176b7634)
 
 2. 指定されたファイル(`general.html`)を修正します。
 
 3. 修正したファイルをステージングに追加します。
    `git add html_learning/html/general.html` とターミナルに打ち込み`Enter`を押します。
-
+   
 4. ステージングされたファイルをコミットします。
    `git commit -v` とターミナルに打ち込み`Enter`を押します。
    ※`-v`オプションをつけることで自分が修正した差分の確認もすることができます。
+  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/a3d6132c-d924-421a-b1f9-40a9e0931648)
 
 5. コミットメッセージを打ち込みます。
    コミットメッセージは以下のリンクを参考にしてください。
-   https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e
+   ![](https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e)
 
 今回の例では`feat:HTML総合課題の実装`としておきます。
 保存したら × ボタンでコミットメーセージの Window を閉じます。
+![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/960fb873-9d9b-4362-a472-50bd28c1889b)
 
 6. リモートリポジトリに変更をプッシュします。
    `git push origin html-general`とターミナルに打ち込み`Enter`を押します。
+![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/3d3133bb-24dc-4455-b863-b7d9f2e659fa)
 
 7. リモートリポジトリで PR(プルリクエスト)を作成します。
 
 - `Compare & pull request`ボタンを押します。
+![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/27ee83d6-bb79-4521-b975-04897d5f4845)
 
 - ブランチが`html-general`ブランチから`main`に向いていることを確認します
   ※ `base repository`、`head repository`の表記の箇所は赤い部分が自分のユーザ名になっているか必ず確認してください。
+![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/80240494-316b-4ba9-961b-a193a53ad317)
 
 - PR の内容を記述します。
-  ※コミットメッセージは実務を想定して他者から見てもらうことを想定して書くと勉強になります。
+  ※コミットメッセージは実務を想定して他者から見てもらうことを意識して書くと勉強になります。
+  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/4f0eeb23-9643-45e0-8842-3337adea86a3)
 
 - `Create pull request` ボタンを押します。
+![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/5da817a6-ffd4-4d93-ad56-e457e5a1bcd8)
 
 8. `Merge pull request`ボタンを押し、セルフマージします。
+![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/8fad7a5f-6910-479a-81b2-9f393b9f8b29)
 
 </details>
