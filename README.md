@@ -67,7 +67,8 @@ https://www.notion.so/alchemy-inc/586e3d4481e44b339ce2c2c83591f9d0
    `git commit -v` とターミナルに打ち込み`Enter`を押します。
    ※`-v`オプションをつけることで自分が修正した差分の確認もすることができます。
    
-  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/a3d6132c-d924-421a-b1f9-40a9e0931648)
+  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/49635e26-e139-4292-a1d1-b378edddf23c)
+
 
 5. コミットメッセージを打ち込みます。
    コミットメッセージは以下のリンクを参考にしてください。
