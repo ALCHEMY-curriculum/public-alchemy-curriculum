@@ -35,16 +35,28 @@
 
 <details>
   <summary>課題の進め方</summary>
-  こちらの総合課題を例にして説明します。
-  https://www.notion.so/alchemy-inc/586e3d4481e44b339ce2c2c83591f9d0
+
+- master ブランチから新規ブランチを切る
+- 新規ブランチで実装を進める
+- git で適宜コミット
+- github に push
+- github 上で PR を作って、レビュー実施
+  - PR の書き方は[こちら](https://hydrakecat.hatenablog.jp/entry/2018/06/30/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%82%84%E3%81%99%E3%81%84PR%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9)を参考に
+- **研修生**がマージ
+
+以下、下記の総合課題を例にして説明します。
+https://www.notion.so/alchemy-inc/586e3d4481e44b339ce2c2c83591f9d0
 
 1. 指定されたブランチ名(`html-general`)を確認し、ローカル環境でそのブランチを作成し、今のブランチからそのブランチに移動します。
-   `git switch -c html-general`とターミナルで打ち込むことでブランチを作成し、`html-general`ブランチに移動もできます.
 
-2. 指定されたファイル(`html_learning/general.html`)を修正します。
+- `git branch`で現在のブランチを確認します。
+- `git switch -c html-general`とターミナルで打ち込みます。
+- `git branch`で再度現在のブランチを確認し、`html-general`ブランチに移動しているか確認します。
+
+2. 指定されたファイル(`general.html`)を修正します。
 
 3. 修正したファイルをステージングに追加します。
-   `git add html_learning/general.html` とターミナルに打ち込み`Enter`を押します。
+   `git add html_learning/html/general.html` とターミナルに打ち込み`Enter`を押します。
 
 4. ステージングされたファイルをコミットします。
    `git commit -v` とターミナルに打ち込み`Enter`を押します。
@@ -55,27 +67,23 @@
    https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e
 
 今回の例では`feat:HTML総合課題の実装`としておきます。
+保存したら × ボタンでコミットメーセージの Window を閉じます。
 
 6. リモートリポジトリに変更をプッシュします。
    `git push origin html-general`とターミナルに打ち込み`Enter`を押します。
 
 7. リモートリポジトリで PR(プルリクエスト)を作成します。
 
-- hoge ボタンを押します。
+- `Compare & pull request`ボタンを押します。
+
 - ブランチが`html-general`ブランチから`main`に向いていることを確認します
+  ※ `base repository`、`head repository`の表記の箇所は赤い部分が自分のユーザ名になっているか必ず確認してください。
+
 - PR の内容を記述します。
   ※コミットメッセージは実務を想定して他者から見てもらうことを想定して書くと勉強になります。
-  参考:https://dev.classmethod.jp/articles/pull-request-template/
 
-- hoge ボタンを押します。
+- `Create pull request` ボタンを押します。
+
+8. `Merge pull request`ボタンを押し、セルフマージします。
 
 </details>
-
-- master ブランチから新規ブランチを切る
-- 新規ブランチで実装を進める
-- git で適宜コミット
-- github に push
-- github 上で PR を作って、レビュー実施
-  - PR の書き方は[こちら](https://hydrakecat.hatenablog.jp/entry/2018/06/30/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%82%84%E3%81%99%E3%81%84PR%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9)を参考に
-- **研修生**がマージ
-- マージ後に、対応する課題の issue を**研修生**がクローズする
