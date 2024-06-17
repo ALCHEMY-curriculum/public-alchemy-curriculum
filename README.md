@@ -171,3 +171,12 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
    ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/8fad7a5f-6910-479a-81b2-9f393b9f8b29)
 
 </details>
+
+## 応募方法
+
+## 外部リンク
+
+- [コーポレートサイト](https://alchemy-lab.jp/)
+- [ALCHEMY White Box](https://alchemy-whitebox.super.site/)
+- [Wantedly](https://www.wantedly.com/companies/alchemy-lab/post_articles/106376)
+- [Connpass](https://alchemy.connpass.com/)
