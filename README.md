@@ -21,17 +21,7 @@
 
    ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/074788ed-8e9a-49ee-8e22-b6901e03fa76)
 
-5. ローカルでターミナルを開く（以下 2 つのどちらかの方法で行う）
-
-   ① Spotlight で「ターミナル」と検索し開く
-
-   ![](./assets/terminal_spotlight.png)
-
-   ② Launchpad 内で「ターミナル」を検索し開く
-
-   ![](./assets/terminal_launchpad.png)
-
-6. ターミナルで`git clone git@github.com:XXXXXXXX/public-alchemy-curriculum.git`　を打ち込み、「ENTER」を押す
+5. ターミナルで`git clone git@github.com:XXXXXXXX/public-alchemy-curriculum.git`　を打ち込み、「ENTER」を押す
 
    ※ XXXXXXXX は Github のユーザネームが入ります
 
@@ -81,7 +71,9 @@
 
 課題の進め方は[github flow](https://atmarkit.itmedia.co.jp/ait/articles/1708/01/news015.html)で進めてください。
 
-1. master ブランチから課題提出用ブランチを切る（ブランチ名は各課題ページで指定されています）
+課題ごとに以下 No.1~5 を行い、1 課題 につき 1 ブランチ 1 PR を作成してください。
+
+1. master ブランチから課題提出用ブランチを切る（ブランチ名は各課題ページで指定されています。）
 2. 1 で作成したブランチで課題を進める
 3. git で適宜ステージング&コミット
 4. github に push
@@ -96,7 +88,7 @@ HTML総合課題ページ
 https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 
 > [NOTE]
-> No.1~7 はターミナルでの作業です
+> No.1~7 はターミナルでの作業です。
 
 1. 課題リポジトリに移動する
 
@@ -142,7 +134,7 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
    ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/3d3133bb-24dc-4455-b863-b7d9f2e659fa)
 
 > [NOTE]
-> No.8~9 は github での作業です
+> No.8~9 は github での作業です。
 
 8. リモートリポジトリで PR(プルリクエスト)を作成する
 
@@ -166,7 +158,7 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 
       ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/5da817a6-ffd4-4d93-ad56-e457e5a1bcd8)
 
-9. `Merge pull request`ボタンを押しマージする
+9. レビュアーより Approve が出たら、`Merge pull request`ボタンを押しマージする
 
    ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/8fad7a5f-6910-479a-81b2-9f393b9f8b29)
 
@@ -180,3 +172,4 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 - [ALCHEMY White Box](https://alchemy-whitebox.super.site/)
 - [Wantedly](https://www.wantedly.com/companies/alchemy-lab/post_articles/106376)
 - [Connpass](https://alchemy.connpass.com/)
+- [応募ページ](FIXME: ここにリンクを入れる)
