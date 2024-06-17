@@ -52,7 +52,7 @@
 
 - `JavaScript`：現代では必須となった JavaScript を現場ライクな形で学び、動的な処理や外部機能を利用し実装力をつけるプログラムです。
 
-詳細はこちら [エンジニア育成プログラム・ファストス](https://www.notion.so/1f5483e3a0f249629a2f5ece97e2e4d1)
+詳細はこちら [エンジニア育成プログラム・ファストス](https://alchemy-inc.notion.site/f8240c382b984879ad656787136226f7)
 
 ## 提出課題一覧
 | 課題名　| 課題ページ |
@@ -88,7 +88,7 @@
 
 以下、下記の総合課題を例にして説明します。
 
-https://www.notion.so/alchemy-inc/586e3d4481e44b339ce2c2c83591f9d0
+https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 
 1. 指定されたブランチ名(`html-general`)を確認し、ローカル環境でそのブランチを作成し、今のブランチからそのブランチに移動します。
 
