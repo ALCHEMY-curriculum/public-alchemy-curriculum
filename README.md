@@ -1,32 +1,40 @@
 # html-css-js-curriculum
 
-## 概要
+## リポジトリの利用方法
 
 <details>
-  <summary>ダウンロードについて（Fork）</summary>
+  <summary>ダウンロード（Fork）して利用</summary>
 
 1. 「Fork」を押す
    ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/c419f24e-707d-455a-89f8-384cde2f0650)
 
 2. 「Create Fork」を押す
-  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/165c6c6b-d14e-4898-9252-761ed22081e9)
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/165c6c6b-d14e-4898-9252-761ed22081e9)
 
 3. Fork した「public-alchemy-curriculum」の「<> Code ▼ 」を押す
-  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/514c02a6-fa7f-429d-878f-c0ebc63edbec)
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/514c02a6-fa7f-429d-878f-c0ebc63edbec)
 
-4. cloneリンクをコピーする
- ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/074788ed-8e9a-49ee-8e22-b6901e03fa76)
+4. clone リンクをコピーする
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/074788ed-8e9a-49ee-8e22-b6901e03fa76)
 
-5. ローカルのターミナルで`git clone git@github.com:XXXXXXXX/public-alchemy-curriculum.git`　を打ち込み、「ENTER」を押す
+5. ローカルでターミナルを開く（以下 2 つのどちらかの方法で行う）
 
-   ※ XXXXXXXX はGithubのユーザネームが入ります
+   ① Spotlight で「ターミナル」と検索し開く
+   ![](./assets/terminal_spotlight.png)
+
+   ② Launchpad 内で「ターミナル」を検索し開く
+   ![](./assets/terminal_launchpad.png)
+
+6. ターミナルで`git clone git@github.com:XXXXXXXX/public-alchemy-curriculum.git`　を打ち込み、「ENTER」を押す
+
+   ※ XXXXXXXX は Github のユーザネームが入ります
 
    ※ `git clone `の後に 4. でコピーしたものをペーストすると上記のコマンドになります
 
-  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/fd91392a-1e3d-43ca-90de-708e552a2851)
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/fd91392a-1e3d-43ca-90de-708e552a2851)
 
-ローカルに「public-alchemy-curriculum」フォルダが作成されていれば、cloneが成功しています
-  ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/821f7029-1d03-43ac-a3e6-3d6cb6128b1e)
+   ローカルに「public-alchemy-curriculum」フォルダが作成されていれば、clone が成功しています
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/821f7029-1d03-43ac-a3e6-3d6cb6128b1e)
 
 </details>
 
