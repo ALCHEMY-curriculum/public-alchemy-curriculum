@@ -1,6 +1,17 @@
-# html-css-js-curriculum
+# public-alchemy-curriculum
 
-## リポジトリの利用方法
+## 目次
+
+- [概要](#概要)
+- [リポジトリのダウンロード（Fork）方法](#リポジトリのダウンロード（Fork）方法)
+- [課題を実施する前に下記内容を確認する](#課題を実施する前に下記内容を確認する)
+- [課題について](#課題について)
+- [提出課題一覧](#提出課題一覧)
+- [課題の進め方](#課題の進め方)
+
+## 概要
+
+## リポジトリのダウンロード（Fork）方法
 
 <details>
   <summary>ダウンロード（Fork）して利用</summary>
@@ -43,7 +54,7 @@
 
 ## 課題について
 
-コンテンツは 3 プログラム構成で実施していきます。
+コンテンツは 2 プログラム構成で実施していきます。
 
 - `HTML-CSS`：全ての基礎となるマークアップを身につけるプログラムです。
 
@@ -119,7 +130,7 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 5. ステージングされているファイルを確認する
 
    - `git status`と打ち込み、「Changes to be committed」に`html_learning/html/general.html`があることを確認
-     ![](./assets/git-status.png)
+     ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/98860928/363691b7-ca22-4423-953e-58f54ba771fe)
 
 6. ステージングされたファイルをメッセージ付きコミットする
 
@@ -160,7 +171,7 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 
 9. レビュアーより Approve が出たら、`Merge pull request`ボタンを押しマージする
 
-   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/53852040/8fad7a5f-6910-479a-81b2-9f393b9f8b29)
+   ![](https://github.com/ALCHEMY-curriculum/public-alchemy-curriculum/assets/98860928/81548b6f-f872-4af2-9aad-f38f11ba99dd)
 
 </details>
 
