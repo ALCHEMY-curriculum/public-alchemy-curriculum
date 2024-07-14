@@ -1,15 +1,18 @@
-# public-alchemy-curriculum
+# いきなり最終面接
 
 ## 目次
 
-- [概要](#概要)
-- [リポジトリのダウンロード（Fork）方法](#リポジトリのダウンロード（Fork）方法)
-- [課題実施前の確認事項](#課題実施前の確認事項)
-- [課題について](#課題について)
-- [提出課題一覧](#提出課題一覧)
-- [課題の進め方](#課題の進め方)
+  - [いきなり最終面接とは](#いきなり最終面接とは)
+  - [リポジトリのダウンロード（Fork）方法](#リポジトリのダウンロードfork方法)
+  - [課題実施前の確認事項](#課題実施前の確認事項)
+  - [課題について](#課題について)
+  - [提出課題一覧](#提出課題一覧)
+  - [課題の進め方](#課題の進め方)
+  - [応募方法](#応募方法)
+  - [外部リンク](#外部リンク)
 
-## 概要
+## いきなり最終面接とは
+下記の[提出課題一覧](#提出課題一覧)に記載されている課題を全て実施した後、成果物（GitHubのリポジトリURL）を[応募ページ](https://www.wantedly.com/projects/1762566)にて提出していただきます。その後、最終面接のご案内（エンジニアのみ）をさせていただくといった新しい応募方法となっています。
 
 ## リポジトリのダウンロード（Fork）方法
 
@@ -176,6 +179,15 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 </details>
 
 ## 応募方法
+https://www.wantedly.com/projects/1762566
+
+1. 上記リンクから「話を聞きにいきたい」を押してください  
+2. 「どれくらい興味があるかを教えてください」を選択し、「今すぐエントリー」を押してください  
+3. 弊社から3営業日以内に返信をいたします  
+4. GitHubのリポジトリURL(下記画像)をチャットにて送信してください
+![](https://github.com/user-attachments/assets/7d9596eb-b0fa-4cb3-9e1f-0a988d52e824)
+
+
 
 ## 外部リンク
 
@@ -183,4 +195,4 @@ https://alchemy-inc.notion.site/5ec0700c11904471b256543deb79527f
 - [ALCHEMY White Box](https://alchemy-whitebox.super.site/)
 - [Wantedly](https://www.wantedly.com/companies/alchemy-lab/post_articles/106376)
 - [Connpass](https://alchemy.connpass.com/)
-- [応募ページ](FIXME: ここにリンクを入れる)
+- [応募ページ](https://www.wantedly.com/projects/1762566)
